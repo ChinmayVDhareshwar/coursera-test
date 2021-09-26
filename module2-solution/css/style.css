@@ -3,14 +3,14 @@
 }
 
 h1{
-	font-size: 200%;
+	font-size: 175%;
 	text-align: center;
 }
 
 section{
 	border:  1px solid black;
 	overflow: hidden;
-	background-color: grey;
+	background-color: 7DD0D7;
 	position: relative;
 	width: 100%;
 }
