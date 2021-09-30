@@ -10,12 +10,13 @@ p{
 	font-weight: medium;
 	padding: 10px;
 	margin: 0px;
-	height: 250px;
+	height: 200px;
 	overflow: hidden;
 }
 
 .container{
 	border: none;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
